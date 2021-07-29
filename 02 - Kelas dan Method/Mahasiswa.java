@@ -1,5 +1,3 @@
-package com.tutorial;
-
 public class Mahasiswa {
 	String nama;
     String nim;
